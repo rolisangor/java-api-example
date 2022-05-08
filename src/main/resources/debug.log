@@ -1,0 +1,8 @@
+INFO this is a info line
+INFO this is another info line
+WARNING this is a warning line
+WARNING this is another warning line
+ERROR this is an error line
+ERROR this is another error line
+DEBUG this is a debug error line
+DEBUG this is another debug error line
